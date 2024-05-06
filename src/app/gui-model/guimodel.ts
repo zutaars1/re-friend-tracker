@@ -6,7 +6,7 @@ export class GuiModel {
 
     private _guiModel = {
         "application": {
-            "title": "ZHAW RE Friend Tracker Sina Fuchs, Samuel Sättler, Arsim Zuta",
+            "title": "ZHAW RE12 Friend Tracker Sina Fuchs / Samuel Sättler / Arsim Zuta",
             "formList": [
                 {
                     "id": "FriendForm",
