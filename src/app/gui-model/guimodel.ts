@@ -261,7 +261,7 @@ export class GuiModel {
                     {
                         "type": "list",
                         "icon": "fa-group",
-                        "color": "purple",
+                        "color": "pumpkin",
                         "search": true,
                         "url": "/group",
                         "form": {
